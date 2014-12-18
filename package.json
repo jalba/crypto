@@ -1,9 +1,9 @@
 {
-    "name": "crypto-libraries",
+    "name": "sha-256-fork",
     "description": "Collection of cryptographic routines",
-    "repository": { "type": "git", "url": "https://github.com/chrisveness/crypto" },
+    "repository": { "type": "git", "url": "https://github.com/jalba/crypto" },
     "author": "Chris Veness",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "devDependencies": {
         "browserify": "^4.0.0",
         "tap-spec": "^0.2.0",
